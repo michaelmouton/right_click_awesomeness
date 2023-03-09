@@ -1,4 +1,4 @@
-# Adding Command Prompt and PowerShell manus in Windows' right-click menu.
+# Adding Command Prompt and PowerShell menus in Windows' right-click menu.
 
 99% of this repository is based upon the work of Andrew Richards [(link to his article)](https://learn.microsoft.com/en-us/archive/blogs/andrew_richards/enhancing-the-open-command-prompt-here-shift-right-click-context-menu-experience).
 
