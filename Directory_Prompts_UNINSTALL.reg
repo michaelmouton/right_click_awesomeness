@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+; Command Prompt
+
+[-HKEY_CLASSES_ROOT\Directory\shell\01MenuCmd]
+
+[-HKEY_CLASSES_ROOT\Directory\background\shell\01MenuCmd]
+
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuCmd]
+
+
+; PowerShell
+
+[-HKEY_CLASSES_ROOT\Directory\shell\02MenuPowerShell]
+
+[-HKEY_CLASSES_ROOT\Directory\background\shell\02MenuPowerShell]
+
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuPowerShell]
