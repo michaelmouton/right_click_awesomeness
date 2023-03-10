@@ -3,8 +3,8 @@
 99% of this repository is based upon the work of Andrew Richards [(link to his article)](https://learn.microsoft.com/en-us/archive/blogs/andrew_richards/enhancing-the-open-command-prompt-here-shift-right-click-context-menu-experience).
 
 The examples from the original article had some issues.  Sure, it would work just fine,
-but it threw up some errors.  I fixed it by only removing the Extended Menu (Shift-Right
-Click) entries, and also privided the uninstall script.
+but it threw up some errors.  I fixed it by removing the Extended Menu (Shift-Right Click)
+entries, and also provided the uninstall script.
 
 If there are any issues in your testing please let me know.  I have only been using this
 on Windows 10, but it should work on any version down to 7 - provided PowerShell is enabled.
