@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+; Open With Linux shell
+
+[HKEY_CLASSES_ROOT\Directory\shell\03LinuxShell]
+@="@wsl.exe,-2"
+"Icon"="wsl.exe"
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\Directory\background\shell\03LinuxShell]
+@="@wsl.exe,-2"
+"Icon"="wsl.exe"
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\Directory\shell\03LinuxShell\command]
+@="wsl.exe --cd \"%V\""
+
+[HKEY_CLASSES_ROOT\Directory\background\shell\03LinuxShell\command]
+@="wsl.exe --cd \"%V\""

@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+; Open With Linux shell
+
+[-HKEY_CLASSES_ROOT\Directory\shell\03LinuxShell]
+
+[-HKEY_CLASSES_ROOT\Directory\background\shell\03LinuxShell]
